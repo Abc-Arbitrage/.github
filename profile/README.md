@@ -1,3 +1,5 @@
+<picture><img src="https://github.com/Abc-Arbitrage/.github/blob/main/profile/header.png" alt="Header"></picture>
+
 ## Hello, we’re ABC Arbitrage! 👋
 
 We’re a team of tech enthusiasts focused on developing cutting-edge trading systems and strategies. We value engagement, collaboration, and innovation.
