@@ -32,7 +32,7 @@
     }
   </style>
 
-  <foreignObject x="200" y="200" width="640" height="160">
+  <foreignObject x="200" y="210" width="640" height="150">
     <div class="content" xmlns="http://www.w3.org/1999/xhtml">
       <h2>Hello, we’re ABC Arbitrage! 👋</h2>
       <p>We’re a team of tech enthusiasts focused on developing cutting-edge trading systems and strategies. We value engagement, collaboration, and innovation.</p>
