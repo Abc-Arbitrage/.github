@@ -1,4 +1,4 @@
-<picture><img src="https://github.com/Abc-Arbitrage/.github/blob/main/profile/header.png" alt="Header"></picture>
+<picture><img src="https://raw.githubusercontent.com/Abc-Arbitrage/.github/main/profile/header.png" alt="Header"></picture>
 
 ## Hello, we’re ABC Arbitrage! 👋
 
